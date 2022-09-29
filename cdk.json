@@ -6,6 +6,6 @@
     "@aws-cdk/core:stackRelativeExports": "true",
     "@aws-cdk/aws-ecr-assets:dockerIgnoreSupport": true,
     "name": "awsome-flux-example",
-    "region": "us-east-1"
+    "region": "ap-northeast-2"
   }
 }
